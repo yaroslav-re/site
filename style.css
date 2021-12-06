@@ -1,0 +1,49 @@
+body {
+	padding: 0;
+}
+button {
+	left: 41%;
+	padding: 28px 95px;
+	top: 47%;
+	background-color: #808080;
+	color: white;
+	border: 0;
+	font-size: 18px;
+	position: absolute;
+	z-index: 30;
+}
+button:hover {
+	background-color: #a9a9a9;
+}
+h1 {
+	left: 33%;
+	font-size: 66px;
+	top: 28%;
+	position: absolute;
+	color: white;
+}
+h2 {
+	position: absolute;
+	font-size: 66px;
+	left: 35%;
+	top: 60%;
+	color: white;
+}
+img {
+	left: 38%;
+	position: absolute;
+	top: 44%;
+	z-index: 20;
+	border: 0;
+}
+#white {
+	z-index: 24;
+	border: 0;
+}
+#black {
+	z-index: 23;
+	background-color: black;
+	padding-bottom: 6px;
+	padding-right: 4px;
+	border: 0;
+}
